@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youtu-support.github.io/sitemap.xml
